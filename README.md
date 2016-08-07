@@ -12,10 +12,10 @@ Blog: <http://hujiandong.com>
 
 ------
 # 目录
-- [Git](#sec-1)
-  - [Git视频](#sec-1-1)
-- [Github](#sec-2)
-  - [Github系列教程](#sec-2-1)
+- [Git](#Git)
+  - [Git视频](#Git视频)
+- [Github](#Github)
+  - [Github系列教程](#Github系列教程)
 
 # Git
 官方文档: <https://git-scm.com/doc>
