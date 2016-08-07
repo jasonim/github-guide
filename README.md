@@ -35,7 +35,7 @@ Github Pull Requests: <https://www.zhihu.com/question/21682976>
 
 如何发现优秀的开源项目: <http://stormzhang.com/github/2016/07/28/learn-github-from-zero7/>
 
-GitHub的使用有各种技巧: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md>
+GitHub秘籍: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md>
 
 ## Github系列教程
 |从0开始学习 GitHub 系列|网站|
