@@ -44,4 +44,4 @@ GitHub秘籍: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/READM
 |加入Github|<http://stormzhang.com/github/2016/05/26/learn-github-from-zero2/>|
 |Git速成|<http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/>|
 |向Github提交代码|<http://stormzhang.com/github/2016/06/04/learn-github-from-zero4/>|
-|Git进阶|<http://mp.weixin.qq.com/s?__biz=MzA4NTQwNDcyMA==&mid=2650661929&idx=1&sn=69e00516a30723c5a20af3c7a84173a4&scene=0>|
+|Git进阶|<http://stormzhang.com/github/2016/06/16/learn-github-from-zero5>|
