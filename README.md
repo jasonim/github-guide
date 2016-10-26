@@ -19,7 +19,14 @@ Blog: <http://hujiandong.com>
 
 # Git
 官方文档: <https://git-scm.com/doc>
+
 廖雪峰Git教程: <http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000>
+
+在线学习：http://learngitbranching.js.org/?NODEMO
+
+git简明指南：http://rogerdudler.github.io/git-guide/index.zh.html
+
+Pro Git（豆瓣）：https://book.douban.com/subject/3420144/
 ## Git视频
 Learn git in 20 minutes: <https://www.youtube.com/watch?v=Y9XZQO1n_7c>
 
@@ -37,6 +44,10 @@ Github Pull Requests: <https://www.zhihu.com/question/21682976>
 
 GitHub秘籍: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md>
 
+如何高效利用GitHub：http://www.yangzhiping.com/tech/github.html
+
+怎样使用 GitHub（文科妹纸）：https://www.zhihu.com/question/20070065/answer/79557687
+
 ## Github系列教程
 |从0开始学习 GitHub 系列|网站|
 |----|---|
@@ -45,3 +56,5 @@ GitHub秘籍: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/READM
 |Git速成|<http://stormzhang.com/github/2016/05/30/learn-github-from-zero3/>|
 |向Github提交代码|<http://stormzhang.com/github/2016/06/04/learn-github-from-zero4/>|
 |Git进阶|<http://stormzhang.com/github/2016/06/16/learn-github-from-zero5>|
+
+
