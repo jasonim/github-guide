@@ -20,13 +20,33 @@ Blog: <http://hujiandong.com>
 # Git
 官方文档: <https://git-scm.com/doc>
 
+|Pro Git（必看）|网址|
+|-----|------|
+|英文|https://git-scm.com/book/en/v2|
+|中文|https://git-scm.com/book/zh/v2|
+
 廖雪峰Git教程: <http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000>
 
 在线学习：http://learngitbranching.js.org/?NODEMO
 
 git简明指南：http://rogerdudler.github.io/git-guide/index.zh.html
 
-Pro Git（豆瓣）：https://book.douban.com/subject/3420144/
+## Git UI
+git for Windows: https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git
+
+tortoisegit: https://code.google.com/p/tortoisegit/
+
+Sourcetree: https://www.sourcetreeapp.com/
+
+## Git Flow(成功的Git分支模型)
+A successful Git branching model: http://nvie.com/posts/a-successful-git-branching-model/
+
+翻译：http://www.juvenxu.com/2010/11/28/a-successful-git-branching-model/
+
+工具：https://github.com/nvie/gitflow
+
+git-flow 备忘清单: http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html
+
 ## Git视频
 Learn git in 20 minutes: <https://www.youtube.com/watch?v=Y9XZQO1n_7c>
 
