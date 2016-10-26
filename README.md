@@ -14,6 +14,8 @@ Blog: <http://hujiandong.com>
 # 目录
 - [Git](#git)
   - [Git视频](#git视频)
+  - [Git UI](#Git UI)
+  - [Git Flow(成功的Git分支模型)](#Git Flow(成功的Git分支模型))
 - [Github](#github)
   - [Github系列教程](#github系列教程)
 
