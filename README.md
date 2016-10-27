@@ -35,6 +35,7 @@ Blog: <http://hujiandong.com>
 
 git简明指南：http://rogerdudler.github.io/git-guide/index.zh.html
 
+Githug(git 学习工具)： https://github.com/Gazler/githug
 ## Git UI
 git for Windows: https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git
 
