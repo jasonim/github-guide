@@ -58,6 +58,8 @@ Learn git in 20 minutes: <https://www.youtube.com/watch?v=Y9XZQO1n_7c>
 Git Video Tutorial1-4: <https://www.youtube.com/watch?v=r63f51ce84A>
 
 # Github
+GitHub 的帮助页面：https://help.github.com/
+
 Github Pull Requests: <https://www.zhihu.com/question/21682976>
 
 |使用GitHub进行团队合作|网址|
@@ -87,3 +89,11 @@ GitHub 漫游指南(Phodal): https://github.com/phodal/github-roam
 # GitHub Pages
 
 # Gitbook
+
+###License
+![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+
+版权采用[CC Attribution-NonCommercial](http://creativecommons.org/licenses/by-nc/4.0/) 
+中文：[署名-非商业性使用协议](http://creativecommons.org/licenses/by-nc/3.0/cn/).
+
+© 2016 [JasonThink](http://hujiandong.com) rights reserved.
