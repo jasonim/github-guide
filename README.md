@@ -14,10 +14,11 @@ Blog: <http://hujiandong.com>
 # 目录
 - [Git](#git)
   - [Git视频](#git视频)
-  - [Git Flow(成功的Git分支模型)](#git-flow(成功的Git分支模型))
+  - [Git Flow(成功的Git分支模型)](#git-flow成功的Git分支模型)
   - [Git UI](#git-ui)
 - [Github](#github)
   - [Github系列教程](#github系列教程)
+  
   - [GitHub Pages](#gitHub-pages)
 
 # Git
