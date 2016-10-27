@@ -19,7 +19,7 @@ Blog: <http://hujiandong.com>
 - [Github](#github)
   - [Github系列教程](#github系列教程)
  - [GitHub Pages](#github-pages)
- - [GitBook](#GitBook)
+ - [GitBook](#gitbook)
 
 # Git
 官方文档: <https://git-scm.com/doc>
