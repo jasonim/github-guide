@@ -70,6 +70,8 @@ GitHub秘籍: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/READM
 
 怎样使用 GitHub（文科妹纸）：https://www.zhihu.com/question/20070065/answer/79557687
 
+GitHub 漫游指南(Phodal): https://github.com/phodal/github-roam
+
 ## Github系列教程
 |从0开始学习 GitHub 系列|网站|
 |----|---|
