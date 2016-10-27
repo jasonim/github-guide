@@ -18,7 +18,7 @@ Blog: <http://hujiandong.com>
   - [Git UI](#git-ui)
 - [Github](#github)
   - [Github系列教程](#github系列教程)
- - [GitHub Pages](#gitHub-pages)
+ - [GitHub Pages](#github-pages)
 
 # Git
 官方文档: <https://git-scm.com/doc>
