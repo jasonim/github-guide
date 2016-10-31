@@ -20,6 +20,9 @@ Blog: <http://hujiandong.com>
   - [Github系列教程](#github系列教程)
  - [GitHub Pages](#github-pages)
  - [GitBook](#gitbook)
+* [CI](#ci)
+  - [Travis CI](#travis-ci)
+* [插件](#插件)
 
 # Git
 官方文档: <https://git-scm.com/doc>
@@ -36,6 +39,9 @@ Blog: <http://hujiandong.com>
 git简明指南：http://rogerdudler.github.io/git-guide/index.zh.html
 
 Githug(git 学习工具)： https://github.com/Gazler/githug
+
+Git使用技巧：https://github.com/git-tips/tips
+
 ## Git UI
 git for Windows: https://code.google.com/p/msysgit/downloads/list?q=full+installer+official+git
 
@@ -77,6 +83,10 @@ GitHub秘籍: <https://github.com/tiimgreen/github-cheat-sheet/blob/master/READM
 
 GitHub 漫游指南(Phodal): https://github.com/phodal/github-roam
 
+如何編輯Github Wiki：https://github.com/g0v/dev/wiki/%E5%A6%82%E4%BD%95%E7%B7%A8%E8%BC%AF-Wiki
+
+Github添加图片的方法: http://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown
+
 ## Github系列教程
 |从0开始学习 GitHub 系列|网站|
 |----|---|
@@ -87,8 +97,22 @@ GitHub 漫游指南(Phodal): https://github.com/phodal/github-roam
 |Git进阶|<http://stormzhang.com/github/2016/06/16/learn-github-from-zero5>|
 
 # GitHub Pages
+jekyll官方教程（中文）：http://jekyllcn.com/
+hexo官方教程（中文）：https://hexo.io/zh-cn/docs/index.html
+简明Github Pages与Hexo教程：http://www.jianshu.com/p/05289a4bc8b2
+像 geek 一样写博客：http://wiki.jikexueyuan.com/project/github-page/
 
 # Gitbook
+GitBook 简明教程：http://www.chengweiyang.cn/gitbook/index.html
+Gitbook 使用入门：https://github.com/wwq0327/gitbook-zh
+
+# CI
+## Travis CI
+官方教程：https://docs.travis-ci.com/user/getting-started/
+Android项目持续集成-Travis CI: http://hujiandong.com/2016/08/01/android-continuous-integration-travis/
+
+# 插件
+octotree（浏览器扩展，树状格式显示GitHub的代码）：https://github.com/buunguyen/octotree
 
 ###License
 ![](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
