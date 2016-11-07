@@ -105,6 +105,8 @@ hexo官方教程（中文）：https://hexo.io/zh-cn/docs/index.html
 
 像 geek 一样写博客：http://wiki.jikexueyuan.com/project/github-page/
 
+Hexo搭建GitHub博客系列: http://zhiho.github.io/categories/hexo/
+
 # Gitbook
 GitBook 简明教程：http://www.chengweiyang.cn/gitbook/index.html
 
