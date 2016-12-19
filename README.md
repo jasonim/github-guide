@@ -88,6 +88,8 @@ GitHub 漫游指南(Phodal): https://github.com/phodal/github-roam
 Github添加图片的方法: http://stackoverflow.com/questions/13808020/include-an-svg-hosted-on-github-in-markdown
 
 GitHub 使用： https://gold.xitu.io/post/5846aee5ac502e006bb45d7e
+
+你必须『收藏』的Github技巧: https://gold.xitu.io/post/58509f8161ff4b00683a360c
 ## Github系列教程
 |从0开始学习 GitHub 系列|网站|
 |----|---|
